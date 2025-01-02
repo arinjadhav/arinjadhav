@@ -33,9 +33,8 @@
   </a>
 </div>
 
-<br>
 <hr>
-<br><br>
+<br>
 
 <h2 align="center">🚀🎓 Skilled in these Programming Languages, Frameworks, and Tools 🌟👨🏻‍💻</h2>
 <br>
@@ -61,7 +60,7 @@
   <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ai&theme=light" /></a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img src="https://skillicons.dev/icons?i=ai" /></a>
   <a href="https://www.apple.com/" target="_blank"><img src="https://skillicons.dev/icons?i=apple" /></a>
 </p>
 
@@ -76,9 +75,7 @@
 
 <br><br>
 <hr>
-<br><br>
 <h2 align="center">⚡ My Github Stats ⚡</h2>
-<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arinjadhav&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" width="47%" />
