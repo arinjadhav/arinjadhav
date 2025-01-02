@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Helloo+There!+👋;+Myself+Arin+Jadhav!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;+Myself+Arin+Jadhav!;&center=true&size=30">
   </a>
 </h1>
 
@@ -33,10 +33,13 @@
   </a>
 </div>
 
-<hr>
-
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
+<hr>
+<br><br>
+
+<h2 align="center">🚀🎓 Skilled in these Programming Languages, Frameworks, and Tools 🌟👨🏻‍💻</h2>
+<br>
+
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
@@ -58,15 +61,21 @@
   <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ai&theme=light" /></a>
   <a href="https://www.apple.com/" target="_blank"><img src="https://skillicons.dev/icons?i=apple" /></a>
 </p>
 
 <br>
-<h4>Learning</h4>
+<br>
+<h2 align="center">🎯 Currently Mastering 💪🏼</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,aws,tensorflow" />
+  <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://skillicons.dev/icons?i=ruby" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
 </p>
 
+<br>
+<br>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
