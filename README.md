@@ -83,6 +83,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinjadhav&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="42%" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arinjadhav/arinjadhav/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arinjadhav/arinjadhav/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arinjadhav/arinjadhav/output/github-snake.svg" />
+</picture>
+
 ## License
 
 [MIT License](LICENSE)
