@@ -7,7 +7,7 @@
 </h1>
 
 <br>
-<p align="center">
+<p align="start">
   🚀 AI & Data Science Enthusiast | 📊 Data Storyteller | 🤖 Machine Learning Innovator | 🧠 Problem Solver
   <br><br>
   🎓 Currently pursuing my Bachelor's degree at <a href="https://gcoer.ac.in">LSPGCoER</a>.
