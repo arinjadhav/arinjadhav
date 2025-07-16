@@ -8,13 +8,13 @@
 
 <br>
 <p align="start">
-  🚀 AI & Data Science Enthusiast | 📊 Data Storyteller | 🤖 Machine Learning Innovator | 🧠 Problem Solver
+  1. 🚀 AI & Data Science Enthusiast | 📊 Data Storyteller | 🤖 Machine Learning Innovator | 🧠 Problem Solver
   <br><br>
-  🎓 Currently pursuing my Bachelor's degree at <a href="https://gcoer.ac.in">LSPGCoER</a>.
+  2. 🎓 Currently pursuing my Bachelor's degree at <a href="https://gcoer.ac.in">LSPGCoER</a>.
   <br>
-  💻 Passionate about leveraging Machine Learning and Data Analytics to build intelligent solutions, uncover insights from data, and drive impactful decision-making.
+  3. 💻 Passionate about leveraging Machine Learning and Data Analytics to build intelligent solutions, uncover insights from data, and drive impactful decision-making.
   <br>
-  👨🏻‍💻 Experienced in developing predictive models, AI-powered tools, and data-driven applications to solve real-world challenges.
+  4. 👨🏻‍💻 Experienced in developing predictive models, AI-powered tools, and data-driven applications to solve real-world challenges.
   <br>
 </p>
 
