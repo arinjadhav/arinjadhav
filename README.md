@@ -10,7 +10,7 @@
 
 <br>
 <p align="start">
-  1. 🚀 AI & Data Science Enthusiast | 📊 Data Storyteller | 🤖 Machine Learning Innovator | 🧠 Problem Solver
+  1. *🚀 AI & Data Science Enthusiast | 📊 Data Storyteller | 🤖 Machine Learning Innovator | 🧠 Problem Solver*
   <br><br>
   2. 🎓 Currently pursuing my Bachelor's degree at <a href="https://gcoer.ac.in">LSPGCoER</a>.
   <br>
