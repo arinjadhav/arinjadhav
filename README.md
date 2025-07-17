@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=arinjadhav.arinjadhav&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=arinjadhav.arinjadhav&color=28b463)
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-05-07`
 
