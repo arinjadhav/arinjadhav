@@ -8,10 +8,9 @@
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-07-17`
 
+*🚀 AI & Data Science Enthusiast | 📊 Data Storyteller | 🤖 Machine Learning Innovator | 🧠 Problem Solver*
 <br>
 <p align="start">
-  1. *🚀 AI & Data Science Enthusiast | 📊 Data Storyteller | 🤖 Machine Learning Innovator | 🧠 Problem Solver*
-  <br><br>
   2. 🎓 Currently pursuing my Bachelor's degree at <a href="https://gcoer.ac.in">LSPGCoER</a>.
   <br>
   3. 💻 Passionate about leveraging Machine Learning and Data Analytics to build intelligent solutions, uncover insights from data, and drive impactful decision-making.
