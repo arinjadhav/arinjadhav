@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/arinjadhav/arinjadhav/main/intro.gif" alt="👋 Hi there! I'm Arin Jadhav" title="👋 Hi there! I'm Arin Jadhav"/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arinjadhav.arinjadhav">
 
 <h1 align="center">
