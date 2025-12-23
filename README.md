@@ -5,8 +5,7 @@
 
 [![website](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./assets/social-icons/MyWebsite.svg)](https://codestackr.com)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Youtube.svg)](https://youtube.com/codestackr)
 &nbsp;&nbsp;
