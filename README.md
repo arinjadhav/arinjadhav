@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/arinjadhav/arinjadhav/main/intro.gif" alt="👋 Hi there! I'm Arin Jadhav" title="👋 Hi there! I'm Arin Jadhav"/>
 
 
-### Connect with me:
+### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
