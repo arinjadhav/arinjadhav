@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Github-Banner.png" alt="GitHub Banner" width="100%" />
+</p>
+
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 [![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
