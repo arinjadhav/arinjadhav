@@ -1,9 +1,6 @@
-<img src="https://raw.githubusercontent.com/arinjadhav/arinjadhav/main/intro.gif" alt="👋 Hi there! I'm Arin Jadhav" title="👋 Hi there! I'm Arin Jadhav"/>
-
-
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 
-[![website](./assets/social-icons/linkedin.svg)](https://linkedin.com/in/arinjadhav10)
+[![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/MyWebsite2.svg)](https://codestackr.com)
 &nbsp;&nbsp;
