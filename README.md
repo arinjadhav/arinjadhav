@@ -3,16 +3,15 @@
 
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 
-[![website](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
+[![website](./assets/social-icons/linkedin.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./assets/social-icons/MyWebsite.svg)](https://codestackr.com)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Youtube.svg)](https://youtube.com/codestackr)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/X.svg)](https://twitter.com/codestackr)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/instagram.svg)](https://instagram.com/arinj)
+[![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arinjadhav.arinjadhav">
