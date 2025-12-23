@@ -3,7 +3,7 @@
 
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 
-[![website](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
+[![website](./assets/social-icons/linkedin.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/MyWebsite.svg)](https://codestackr.com)
 &nbsp;&nbsp;
