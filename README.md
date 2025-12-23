@@ -5,7 +5,7 @@
 
 [![website](./assets/social-icons/linkedin.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/MyWebsite.svg)](https://codestackr.com)
+[![website](./assets/social-icons/Website.svg)](https://codestackr.com)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Youtube.svg)](https://youtube.com/codestackr)
 &nbsp;&nbsp;
