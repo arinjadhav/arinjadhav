@@ -10,8 +10,7 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Youtube.svg)](https://youtube.com/codestackr)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/X-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./assets/social-icons/X-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./assets/social-icons/X.svg)](https://twitter.com/codestackr)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/instagram.svg)](https://instagram.com/arinj)
 
