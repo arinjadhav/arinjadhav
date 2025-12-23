@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/arinjadhav/arinjadhav/main/intro.gif" alt="👋 Hi there! I'm Arin Jadhav" title="👋 Hi there! I'm Arin Jadhav"/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arinjadhav.arinjadhav">
 
 <h1 align="center">
@@ -6,15 +8,18 @@
   </a>
 </h1>
 
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-07-17`
+
+
 <br>
-<p align="center">
-  🚀 AI & Data Science Enthusiast | 📊 Data Storyteller | 🤖 Machine Learning Innovator | 🧠 Problem Solver
-  <br><br>
-  🎓 Currently pursuing my Bachelor's degree at <a href="https://gcoer.ac.in">LSPGCoER</a>.
+<p align="start">
+  1. 🚀 𝙰𝚒 &amp; 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 | 📊 𝙳𝚊𝚝𝚊 𝚂𝚝𝚘𝚛𝚢𝚝𝚎𝚕𝚕𝚎𝚛 | 🤖 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚘𝚛 | 🧠 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚂𝚘𝚕𝚟𝚎𝚛
   <br>
-  💻 Passionate about leveraging Machine Learning and Data Analytics to build intelligent solutions, uncover insights from data, and drive impactful decision-making.
+  2. 🎓 Currently I'm pursuing my Master's degree at <a href="https://www.iitp.ac.in">Indian Institute of Technology Patna (IIT Patna)</a>.
   <br>
-  👨🏻‍💻 Experienced in developing predictive models, AI-powered tools, and data-driven applications to solve real-world challenges.
+  3. 💻 Passionate about leveraging Machine Learning and Data Analytics to build intelligent solutions, uncover insights from data, and drive impactful decision-making.
+  <br>
+  4. 👨🏻‍💻 Experienced in developing predictive models, AI-powered tools, and data-driven applications to solve real-world challenges.
   <br>
 </p>
 
