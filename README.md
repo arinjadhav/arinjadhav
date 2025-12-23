@@ -36,7 +36,7 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
 
-### 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
+### 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 👨🏻‍💻:
 <div>
   <p>I turn messy data into meaningful logic 🧠</p>
   <p>
@@ -51,6 +51,17 @@
 </div>
 
 ### 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐓𝐨𝐨𝐥𝐬:
+<img align="left" alt="HTML5" width="26px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+     style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="26px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+     style="padding-right:10px;" />
+
+<img align="left" alt="JavaScript" width="26px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+     style="padding-right:10px;" />
 
 <hr>
 
