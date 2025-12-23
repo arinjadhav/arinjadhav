@@ -2,6 +2,12 @@
   <img src="assets/Github-Banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;+Myself+Arin+Jadhav!;&center=true&size=30">
+  </a>
+</h1>
+
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 [![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
@@ -16,11 +22,6 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arinjadhav.arinjadhav">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;+Myself+Arin+Jadhav!;&center=true&size=30">
-  </a>
-</h1>
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-07-17`
 
