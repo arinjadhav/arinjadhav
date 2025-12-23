@@ -28,7 +28,7 @@
 ## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 [![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/MyWebsite2.svg)](https://codestackr.com)
+[![website](./assets/social-icons/MyWebsite2.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Youtube.svg)](https://youtube.com/codestackr)
 &nbsp;&nbsp;
