@@ -21,7 +21,11 @@
   </picture>
 </h1>
 
-### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
+<div>
+  <h2>𝐌𝐓𝐞𝐜𝐡 𝐀𝐈’27 𝐈𝐈𝐓 𝐏𝐚𝐭𝐧𝐚 | 𝐄𝐱–𝐍𝐈𝐓 𝐑𝐨𝐮𝐫𝐤𝐞𝐥𝐚 𝐈𝐧𝐭𝐞𝐫𝐧 |</h2>
+</div>
+
+## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 [![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/MyWebsite2.svg)](https://codestackr.com)
@@ -32,6 +36,25 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
 
+## 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
+
+<div>
+  <p>I turn messy data into meaningful logic 🧠</p>
+  <p>
+    I'm currently pursuing my <strong>M.Tech in Artificial Intelligence</strong> at <strong>IIT Patna</strong>, and I’m passionate about transforming data into intelligent, human-centered solutions.
+  </p>
+  <p>
+    Before IIT, I earned my 𝗕.𝗧𝗲𝗰𝗵 𝗶𝗻 𝗔𝗜 & 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 from 𝗟𝗦𝗣 𝗚𝗼𝘃𝗲𝗿𝗻𝗺𝗲𝗻𝘁 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, 𝗥𝗮𝘁𝗻𝗮𝗴𝗶𝗿𝗶, where I explored the exciting edge of real-world AI — building everything from a virtual assistant (JARVIS) to a smart healthcare automation system that bagged the 𝗕𝗲𝘀𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘄𝗮𝗿𝗱 🏆 at 𝗡𝗜𝗧 𝗥𝗼𝘂𝗿𝗸𝗲𝗹𝗮.
+  </p>
+  <p>
+    I love building solutions that combine code and compassion - systems that don't just compute but contribute. My toolkit includes 𝗖, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗖#, 𝗦𝗤𝗟, 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗠𝗩𝗖, and modern web technologies, and I’m constantly pushing boundaries through hands-on projects and 𝗳𝘂𝗹𝗹–𝘀𝘁𝗮𝗰𝗸 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 at 𝗡𝘅𝘁𝗪𝗮𝘃𝗲’𝘀 𝗖𝗖𝗕𝗣 𝟰.𝟬 𝗔𝗰𝗮𝗱𝗲𝗺𝘆.
+  </p>
+</div>
+
+
+
+
+<hr>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arinjadhav.arinjadhav">
 
