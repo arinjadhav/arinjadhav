@@ -3,9 +3,22 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;+Myself+Arin+Jadhav!;&center=true&size=30">
-  </a>
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+I'm+Arin+Anil+Jadhav!;&center=true&size=30&color=EAEAEA"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+I'm+Arin+Anil+Jadhav!;&center=true&size=30&color=20BEFF"
+    />
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+I'm+Arin+Anil+Jadhav!;&center=true&size=30&color=20BEFF"
+      alt="Typing SVG"
+    />
+  </picture>
 </h1>
 
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
