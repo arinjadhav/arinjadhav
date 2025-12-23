@@ -138,13 +138,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/arinjadhav/arinjadhav/output/github-snake.svg" />
 </picture>
 
-## License
+## MIT License
 <a href="https://github.com/arinjadhav" alt="https://github.com/arinjadhav"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=arinjadhav&color=000000"></a>
-
-<a href="https://github.com/blackcater/blackcater/blob/main/LICENSE" alt="https://github.com/blackcater/blackcater/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
-
 <a href="https://github.com/arinjadhav/arinjadhav/blob/main/LICENSE" alt="https://github.com/arinjadhav/arinjadhav/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
-
-https://github.com/arinjadhav/arinjadhav/blob/main/LICENSE
-
-[MIT License](LICENSE)
