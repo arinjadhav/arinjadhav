@@ -11,7 +11,7 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/X.svg)](https://twitter.com/codestackr)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/instagram.svg)](https://instagram.com/arinj)
+[![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arinjadhav.arinjadhav">
