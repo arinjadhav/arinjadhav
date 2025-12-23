@@ -21,7 +21,11 @@
   </picture>
 </h1>
 
-## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
+<div>
+  <h2>𝐌.𝐓𝐞𝐜𝐡. 𝐀𝐈’𝟐𝟕 @ 𝐈𝐈𝐓 𝐏𝐚𝐭𝐧𝐚 | 𝐄𝐱–𝐍𝐈𝐓 𝐑𝐨𝐮𝐫𝐤𝐞𝐥𝐚 𝐈𝐧𝐭𝐞𝐫𝐧 | 𝐀𝐈 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 | 𝐏𝐲𝐭𝐡𝐨𝐧 • 𝐀𝐈 • 𝐌𝐋 • 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 | </h2>
+</div>
+
+### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 [![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/MyWebsite2.svg)](https://bento.me/arinjadhav)
@@ -32,7 +36,7 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
 
-## 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
+### 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 <div>
   <p>I turn messy data into meaningful logic 🧠</p>
   <p>
@@ -138,6 +142,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/arinjadhav/arinjadhav/output/github-snake.svg" />
 </picture>
 
-## MIT License
+<hr>
 <a href="https://github.com/arinjadhav" alt="https://github.com/arinjadhav"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=arinjadhav&color=000000"></a>
 <a href="https://github.com/arinjadhav/arinjadhav/blob/main/LICENSE" alt="https://github.com/arinjadhav/arinjadhav/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
