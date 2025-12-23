@@ -1,14 +1,14 @@
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 
-[![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
+[![LinkedIn](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10 "Connect with me on LinkedIn")
 &nbsp;&nbsp;
-[![website](./assets/social-icons/MyWebsite2.svg)](https://codestackr.com)
+[![Website](./assets/social-icons/MyWebsite2.svg)](https://codestackr.com "Visit my personal website")
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Youtube.svg)](https://youtube.com/codestackr)
+[![YouTube](./assets/social-icons/Youtube.svg)](https://youtube.com/codestackr "Subscribe to my YouTube channel")
 &nbsp;&nbsp;
-[![website](./assets/social-icons/X.svg)](https://twitter.com/codestackr)
+[![X (Twitter)](./assets/social-icons/X.svg)](https://twitter.com/codestackr "Follow me on X (Twitter)")
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
+[![Instagram](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj "Follow me on Instagram")
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arinjadhav.arinjadhav">
