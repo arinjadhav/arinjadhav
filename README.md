@@ -3,8 +3,7 @@
 
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/arinjadhav10#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/arinjadhav10#gh-dark-mode-only)
+[![website](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
@@ -12,11 +11,10 @@
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./assets/social-icons/X-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./assets/social-icons/X-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/arinj_0710#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/arinj_0710#gh-dark-mode-only)
+[![website](./assets/social-icons/instagram.svg)](https://instagram.com/arinj)
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arinjadhav.arinjadhav">
