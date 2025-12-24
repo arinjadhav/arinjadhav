@@ -55,21 +55,22 @@
 ### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
 
 <p align="left">
-  <img src="assets/dev-icons/c.svg" width="60" height="60"/>
-  <img src="assets/dev-icons/c++.svg" width="60" height="60"/>
-  <img src="assets/dev-icons/python.svg" width="60" height="60"/>
-  <img src="assets/dev-icons/mysql.svg" width="60" height="60"/>
+  <img src="assets/dev-icons/c.svg" width="50" height="50"/>
+  <img src="assets/dev-icons/c++.svg" width="50" height="50"/>
+  <img src="assets/dev-icons/python.svg" width="50" height="50"/>
+  <img src="assets/dev-icons/r.svg" width="50" height="50"/>
+  <img src="assets/dev-icons/mysql.svg" width="50" height="50"/>
 </p>
 
 ### 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
 
 <p align="left">
-  <img src="assets/dev-icons/html5.svg" width="60" height="60"/>
-  <img src="assets/dev-icons/css3.svg" width="60" height="60"/>
-  <img src="assets/dev-icons/javascript.svg" width="60" height="60"/>
-  <img src="assets/dev-icons/bootstrap.svg" width="60" height="60"/>
-  <img src="assets/dev-icons/react.svg" width="50" height="50"/>
-  <img src="assets/dev-icons/nodejs.svg" width="55" height="55"/>
+  <img src="assets/dev-icons/html5.svg" width="50" height="50"/>
+  <img src="assets/dev-icons/css3.svg" width="50" height="50"/>
+  <img src="assets/dev-icons/javascript.svg" width="50" height="50"/>
+  <img src="assets/dev-icons/bootstrap.svg" width="50" height="50"/>
+  <img src="assets/dev-icons/react.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/nodejs.svg" width="45" height="45"/>
 </p>
 
 ### 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬
