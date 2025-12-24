@@ -88,7 +88,8 @@
 
 ### 𝖴𝗍𝗂𝗅𝗂𝗍𝗂𝖾𝗌 :
 <p>
-  <img src="assets/dev-icons/jupyternotebook.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/jupyternotebook-light.svg#gh-light-mode-only" width="42" height="42" alt="jupyternotebook" />
+  <img src="assets/dev-icons/jupyternotebook-dark.svg#gh-dark-mode-only" width="42" height="42" alt="jupyternotebook" />
   <img src="assets/dev-icons/excel.svg" width="42" height="42"/>
   <img src="assets/dev-icons/git.svg" width="42" height="42"/>
   <img src="assets/dev-icons/github-light.svg#gh-light-mode-only" width="42" height="42" alt="GitHub" />
