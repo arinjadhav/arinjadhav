@@ -77,6 +77,8 @@
 <p>
   <img src="assets/dev-icons/jupyternotebook.svg" width="42" height="42"/>
   <img src="assets/dev-icons/excel.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/git.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/github.svg" width="42" height="42"/>
   <img src="assets/dev-icons/vsc.svg" width="42" height="42"/>
   <img src="assets/dev-icons/vs.svg" width="42" height="42"/>
   <img src="assets/dev-icons/aws.svg" width="42" height="42"/>
