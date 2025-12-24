@@ -74,7 +74,7 @@
   <img src="assets/dev-icons/C.svg" width="40" height="40"/>
   <img src="assets/dev-icons/C++.svg" width="40" height="40"/>
   <img src="assets/dev-icons/Python.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/Javascript.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/JavaSript.svg" width="40" height="40"/>
   <img src="assets/dev-icons/Html5.svg" width="40" height="40"/>
   <img src="assets/dev-icons/Css3.svg" width="40" height="40"/>
   <img src="assets/dev-icons/r.svg" width="40" height="40"/>
