@@ -30,9 +30,9 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/MyWebsite2.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Youtube.svg)](https://youtube.com/codestackr)
+![website](./assets/social-icons/Youtube.svg)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/X.svg)](https://twitter.com/codestackr)
+[![website](./assets/social-icons/X.svg)](https://x.com/arinj_10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
 
