@@ -52,7 +52,7 @@
 
 ## 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐓𝐨𝐨𝐥𝐬:
 
-### LANGUAGES
+### 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 :
 
 <p align="left">
   <img src="assets/dev-icons/c.svg"/>
@@ -63,7 +63,7 @@
   <img src="assets/dev-icons/mysql.svg"/>
 </p>
 
-### DEVELOPMENT
+### 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 :
 
 <p align="left">
   <img src="assets/dev-icons/html5.svg"/>
@@ -73,7 +73,7 @@
   <img src="assets/dev-icons/nodejs.svg"/>
 </p>
 
-### UTILITIES
+### 𝖴𝗍𝗂𝗅𝗂𝗍𝗂𝖾𝗌 :
 <p>
   <img src="assets/dev-icons/jupyternotebook.svg" width="42" height="42"/>
   <img src="assets/dev-icons/excel.svg" width="42" height="42"/>
