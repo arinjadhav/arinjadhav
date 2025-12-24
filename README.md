@@ -58,7 +58,7 @@
   <img src="assets/dev-icons/c.svg" width="60" height="60"/>
   <img src="assets/dev-icons/c++.svg" width="60" height="60"/>
   <img src="assets/dev-icons/python.svg" width="60" height="60"/>
-  <img src="assets/dev-icons/mysql.svg" width="60" height="70"/>
+  <img src="assets/dev-icons/mysql.svg" width="60" height="60"/>
 </p>
 
 ### 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
@@ -67,20 +67,21 @@
   <img src="assets/dev-icons/html5.svg" width="60" height="60"/>
   <img src="assets/dev-icons/css3.svg" width="60" height="60"/>
   <img src="assets/dev-icons/javascript.svg" width="60" height="60"/>
+  <img src="assets/dev-icons/bootstrap.svg" width="60" height="60"/>
   <img src="assets/dev-icons/react.svg" width="50" height="50"/>
   <img src="assets/dev-icons/nodejs.svg" width="55" height="55"/>
-  <img src="assets/dev-icons/Bootstrap.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/mysql.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/JupyterNbk.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/excel.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/VSC.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/VS.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/AWS.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/GCP.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/Google-Cloud.svg" width="40" height="40"/>
 </p>
 
 ### 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬
+<p>
+  <img src="assets/dev-icons/jupyternotebook.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/excel.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/vsc.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/vs.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/aws.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/gcp.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/googlecloud.svg" width="40" height="40"/>
+</p>
 
 <hr>
 
