@@ -55,33 +55,33 @@
 ### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
 
 <p align="left">
-  <img src="assets/dev-icons/c.svg" width="50" height="50"/>
-  <img src="assets/dev-icons/c++.svg" width="50" height="50"/>
-  <img src="assets/dev-icons/python.svg" width="50" height="50"/>
-  <img src="assets/dev-icons/r.svg" width="50" height="50"/>
-  <img src="assets/dev-icons/mysql.svg" width="50" height="50"/>
+  <img src="assets/dev-icons/c.svg"/>
+  <img src="assets/dev-icons/c++.svg"/>
+  <img src="assets/dev-icons/python.svg"/>
+  <img src="assets/dev-icons/r.svg"/>
+  <img src="assets/dev-icons/mysql.svg"/>
 </p>
 
 ### 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
 
 <p align="left">
-  <img src="assets/dev-icons/html5.svg" width="50" height="50"/>
-  <img src="assets/dev-icons/css3.svg" width="50" height="50"/>
-  <img src="assets/dev-icons/javascript.svg" width="50" height="50"/>
-  <img src="assets/dev-icons/bootstrap.svg" width="50" height="50"/>
-  <img src="assets/dev-icons/react.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/nodejs.svg" width="45" height="45"/>
+  <img src="assets/dev-icons/html5.svg"/>
+  <img src="assets/dev-icons/css3.svg"/>
+  <img src="assets/dev-icons/javascript.svg"/>
+  <img src="assets/dev-icons/bootstrap.svg"/>
+  <img src="assets/dev-icons/react.svg"/>
+  <img src="assets/dev-icons/nodejs.svg"/>
 </p>
 
 ### 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬
 <p>
-  <img src="assets/dev-icons/jupyternotebook.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/excel.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/vsc.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/vs.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/aws.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/gcp.svg" width="40" height="40"/>
-  <img src="assets/dev-icons/googlecloud.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/jupyternotebook.svg"/>
+  <img src="assets/dev-icons/excel.svg"/>
+  <img src="assets/dev-icons/vsc.svg"/>
+  <img src="assets/dev-icons/vs.svg"/>
+  <img src="assets/dev-icons/aws.svg"/>
+  <img src="assets/dev-icons/gcp.svg"/>
+  <img src="assets/dev-icons/googlecloud.svg"/>
 </p>
 
 <hr>
