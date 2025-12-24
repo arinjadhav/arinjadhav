@@ -58,6 +58,7 @@
   <img src="assets/dev-icons/c.svg"/>
   <img src="assets/dev-icons/c++.svg"/>
   <img src="assets/dev-icons/python.svg"/>
+    <img src="assets/dev-icons/javascript.svg"/>
   <img src="assets/dev-icons/r.svg"/>
   <img src="assets/dev-icons/mysql.svg"/>
 </p>
@@ -67,7 +68,6 @@
 <p align="left">
   <img src="assets/dev-icons/html5.svg"/>
   <img src="assets/dev-icons/css3.svg"/>
-  <img src="assets/dev-icons/javascript.svg"/>
   <img src="assets/dev-icons/bootstrap.svg"/>
   <img src="assets/dev-icons/react.svg"/>
   <img src="assets/dev-icons/nodejs.svg"/>
