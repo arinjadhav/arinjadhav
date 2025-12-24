@@ -75,13 +75,12 @@
 
 ### 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬
 <p>
-  <img src="assets/dev-icons/jupyternotebook.svg"/>
-  <img src="assets/dev-icons/excel.svg"/>
-  <img src="assets/dev-icons/vsc.svg"/>
-  <img src="assets/dev-icons/vs.svg"/>
-  <img src="assets/dev-icons/aws.svg"/>
-  <img src="assets/dev-icons/gcp.svg"/>
-  <img src="assets/dev-icons/googlecloud.svg"/>
+  <img src="assets/dev-icons/jupyternotebook.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/excel.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/vsc.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/vs.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/aws.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/gcp.svg" width="42" height="42"/>
 </p>
 
 <hr>
