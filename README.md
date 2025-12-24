@@ -34,7 +34,7 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/X.svg)](https://x.com/arinj_10)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
+[![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj_0710)
 
 ### 𝐂𝐨𝐝𝐞 𝐰𝐢𝐭𝐡 𝐦𝐞 🤖
 <p align="start">
