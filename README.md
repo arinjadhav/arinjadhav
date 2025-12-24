@@ -36,6 +36,14 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
 
+<p></br></p>
+<p align="center">
+  <a href="https://vidyabhandary.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="arinjadhav" /></a> 
+  <a href="https://kaggle.com/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="arinjadhav"/></a> 
+  <a href="https://leetcode.com/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/LeetCode-f1802d?style=for-the-badge&logo=leetcode&logoColor=black" alt="arinjadhav"/></a>
+  <a href="https://codeforces.com/profile/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/Codeforces-FA003F?style=for-the-badge&logo=codeforces&logoColor=white" alt="arinjadhav"/></a>
+</p>
+
 ### 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 👨🏻‍💻:
 <div>
   <p>I turn messy data into meaningful logic 🧠</p>
