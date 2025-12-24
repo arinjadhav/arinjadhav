@@ -36,6 +36,17 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
 
+### 𝐂𝐨𝐝𝐞 𝐰𝐢𝐭𝐡 𝐦𝐞 🤖
+<p align="start">
+  <a href="https://kaggle.com/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=0047AB" alt="arinjadhav"/></a> 
+  <a href="https://medium.com/@arinjadhav" target="blank"><img src="https://img.shields.io/badge/Medium-343434?style=for-the-badge&logo=medium&logoColor=white" alt="arinjadhav"/></a> 
+  <a href="https://leetcode.com/u/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/LeetCode-ff8f00?style=for-the-badge&logo=leetcode&logoColor=6F4E37" alt="arinjadhav"/></a>
+  <a href="https://codeforces.com/profile/arinjadhav" target="blank"><img src="https://img.shields.io/badge/Codeforces-FA003F?style=for-the-badge&logo=codeforces&logoColor=white" alt="arinjadhav"/></a>
+  <a href="https://www.codechef.com/users/arinjadhav" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=F8F3DE" alt="arinjadhav"/></a>
+</p>
+
+<p></br></p>
+
 ### 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 👨🏻‍💻:
 <div>
   <p>I turn messy data into meaningful logic 🧠</p>
@@ -49,6 +60,8 @@
     I love building solutions that combine code and compassion - systems that don't just compute but contribute. My toolkit includes 𝗖, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗖#, 𝗦𝗤𝗟, 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗠𝗩𝗖, and modern web technologies, and I’m constantly pushing boundaries through hands-on projects and 𝗳𝘂𝗹𝗹–𝘀𝘁𝗮𝗰𝗸 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 at 𝗡𝘅𝘁𝗪𝗮𝘃𝗲’𝘀 𝗖𝗖𝗕𝗣 𝟰.𝟬 𝗔𝗰𝗮𝗱𝗲𝗺𝘆.
   </p>
 </div>
+
+<p></br></p>
 
 ## 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐓𝐨𝐨𝐥𝐬:
 
@@ -77,6 +90,8 @@
 <p>
   <img src="assets/dev-icons/jupyternotebook.svg" width="42" height="42"/>
   <img src="assets/dev-icons/excel.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/git.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/github.svg" width="42" height="42"/>
   <img src="assets/dev-icons/vsc.svg" width="42" height="42"/>
   <img src="assets/dev-icons/vs.svg" width="42" height="42"/>
   <img src="assets/dev-icons/aws.svg" width="42" height="42"/>
