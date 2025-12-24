@@ -95,7 +95,8 @@
   <img src="assets/dev-icons/github-dark.svg#gh-dark-mode-only" width="42" height="42" alt="GitHub" />
   <img src="assets/dev-icons/vsc.svg" width="42" height="42"/>
   <img src="assets/dev-icons/vs.svg" width="42" height="42"/>
-  <img src="assets/dev-icons/aws.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/aws-light.svg#gh-light-mode-only" width="42" height="42" alt="aws" />
+  <img src="assets/dev-icons/aws-dark.svg#gh-dark-mode-only" width="42" height="42" alt="aws" />
   <img src="assets/dev-icons/gcp.svg" width="42" height="42"/>
 </p>
 
