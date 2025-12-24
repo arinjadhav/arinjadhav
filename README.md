@@ -58,8 +58,30 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" width="50px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="C" width="50px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="C++" width="50px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Python" width="50px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</p>
+
+### 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐓𝐨𝐨𝐥𝐬:
+
+<p align="left">
+  <img src="assets/dev-icons/Python.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/Javascript.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/Html5.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/Css3.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/React.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/Nodejs.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/Bootstrap.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/mysql.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/AWS.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/Google-Cloud.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/JupyterNbk.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/excel.svg" width="40" height="40"/>
+  <img src="assets/dev-icons/VSC.svg" width="40" height="40"/>
 </p>
 
 <hr>
