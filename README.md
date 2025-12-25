@@ -2,6 +2,8 @@
   <img src="assets/Github-Banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=arinjadhav&color=E60026)
+
 <h1 align="center">
   <picture>
     <!-- Dark mode -->
