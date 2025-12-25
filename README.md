@@ -2,11 +2,8 @@
   <img src="assets/Github-Banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
-![](https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social)
-[![](https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social)](https://github.com/arinjadhav)
-<a href="https://github.com/arinjadhav"><img src="https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social" /></a>
 ![](https://komarev.com/ghpvc/?username=arinjadhav&color=E60026)
-
+[![](https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social)](https://github.com/arinjadhav)
 
 <h1 align="center">
   <picture>
