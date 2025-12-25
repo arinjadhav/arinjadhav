@@ -22,10 +22,10 @@
 </h1>
 
 <div>
-  <h2>𝐌.𝐓𝐞𝐜𝐡. 𝐀𝐈’𝟐𝟕 @ 𝐈𝐈𝐓 𝐏𝐚𝐭𝐧𝐚 | 𝐄𝐱–𝐍𝐈𝐓 𝐑𝐨𝐮𝐫𝐤𝐞𝐥𝐚 𝐈𝐧𝐭𝐞𝐫𝐧 | 𝐀𝐈 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 | 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐏𝐲𝐭𝐡𝐨𝐧 • 𝐀𝐈 • 𝐌𝐋 • 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 | </h2>
+  <h2>M.Tech. AI'27 @ IIT Patna | Ex-NIT Rourkela Intern | AI Research Enthusiast | Data Scientist | Python • AI • ML • Data Science</h2>
 </div>
 
-### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
+### Connect with me:
 [![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/MyWebsite2.svg)](https://bento.me/arinjadhav)
@@ -36,7 +36,7 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj_0710)
 
-### 𝐂𝐨𝐝𝐞 𝐰𝐢𝐭𝐡 𝐦𝐞 🤖
+### Code with me:
 <p align="start">
   <a href="https://kaggle.com/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=0047AB" alt="arinjadhav"/></a> 
   <a href="https://medium.com/@arinjadhav" target="blank"><img src="https://img.shields.io/badge/Medium-343434?style=for-the-badge&logo=medium&logoColor=white" alt="arinjadhav"/></a> 
@@ -47,7 +47,7 @@
 
 <p></br></p>
 
-### 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 👨🏻‍💻:
+### About me:
 <div>
   <p>I turn messy data into meaningful logic 🧠</p>
   <p>
@@ -63,7 +63,7 @@
 
 <p></br></p>
 
-## 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐓𝐨𝐨𝐥𝐬:
+## Language & Tools:
 
 ### 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 :
 
