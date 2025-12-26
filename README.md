@@ -111,10 +111,7 @@
 <p></br></p>
 
 ## Github Contribution Activity:
-<div align="center">
-  
-  ![snake gif](https://github.com/arinjadhav/arinjadhav/blob/output/github-snake-dark.svg)
-</div>
+
 
 <hr>
 
