@@ -108,6 +108,11 @@
   <img src="assets/dev-icons/gcp.svg" width="42" height="42"/>
 </p>
 
+<div align="center">
+  
+  ![snake gif](https://github.com/arinjadhav/arinjadhav/blob/output/github-snake-dark.svg)
+</div>
+
 <hr>
 
 <a href="https://github.com/arinjadhav" alt="https://github.com/arinjadhav"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=arinjadhav&color=000000"></a>
