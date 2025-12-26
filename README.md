@@ -2,6 +2,13 @@
   <img src="assets/Github-Banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=arinjadhav&color=E60026" />
+  <a href="https://github.com/arinjadhav">
+    <img src="https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social" />
+  </a>
+</div>
+
 <h1 align="center">
   <picture>
     <!-- Dark mode -->
@@ -22,21 +29,21 @@
 </h1>
 
 <div>
-  <h2>𝐌.𝐓𝐞𝐜𝐡. 𝐀𝐈’𝟐𝟕 @ 𝐈𝐈𝐓 𝐏𝐚𝐭𝐧𝐚 | 𝐄𝐱–𝐍𝐈𝐓 𝐑𝐨𝐮𝐫𝐤𝐞𝐥𝐚 𝐈𝐧𝐭𝐞𝐫𝐧 | 𝐀𝐈 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 | 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐏𝐲𝐭𝐡𝐨𝐧 • 𝐀𝐈 • 𝐌𝐋 • 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 | </h2>
+  <h2>M.Tech. AI'27 @ IIT Patna | Ex-NIT Rourkela Intern | AI Research Enthusiast | Data Scientist | Python • AI • ML • Data Science</h2>
 </div>
 
-### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 💬
+### Connect with me:
 [![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/MyWebsite2.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Youtube.svg)](https://youtube.com/codestackr)
+![website](./assets/social-icons/Youtube.svg)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/X.svg)](https://twitter.com/codestackr)
+[![website](./assets/social-icons/X.svg)](https://x.com/arinj_10)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj)
+[![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj_0710)
 
-### 𝐂𝐨𝐝𝐞 𝐰𝐢𝐭𝐡 𝐦𝐞 🤖
+### Code with me:
 <p align="start">
   <a href="https://kaggle.com/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=0047AB" alt="arinjadhav"/></a> 
   <a href="https://medium.com/@arinjadhav" target="blank"><img src="https://img.shields.io/badge/Medium-343434?style=for-the-badge&logo=medium&logoColor=white" alt="arinjadhav"/></a> 
@@ -47,23 +54,23 @@
 
 <p></br></p>
 
-### 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 👨🏻‍💻:
+### About me:
 <div>
   <p>I turn messy data into meaningful logic 🧠</p>
   <p>
     I'm currently pursuing my <strong>M.Tech in Artificial Intelligence</strong> at <strong>IIT Patna</strong>, and I’m passionate about transforming data into intelligent, human-centered solutions.
   </p>
   <p>
-    Before IIT, I earned my 𝗕.𝗧𝗲𝗰𝗵 𝗶𝗻 𝗔𝗜 & 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 from 𝗟𝗦𝗣 𝗚𝗼𝘃𝗲𝗿𝗻𝗺𝗲𝗻𝘁 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, 𝗥𝗮𝘁𝗻𝗮𝗴𝗶𝗿𝗶, where I explored the exciting edge of real-world AI — building everything from a virtual assistant (JARVIS) to a smart healthcare automation system that bagged the 𝗕𝗲𝘀𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘄𝗮𝗿𝗱 🏆 at 𝗡𝗜𝗧 𝗥𝗼𝘂𝗿𝗸𝗲𝗹𝗮.
+    Before IIT, I earned my 𝗕.𝗧𝗲𝗰𝗵 𝗶𝗻 𝗔𝗜 & 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 from 𝗟𝗦𝗣 𝗚𝗼𝘃𝗲𝗿𝗻𝗺𝗲𝗻𝘁 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, 𝗥𝗮𝘁𝗻𝗮𝗴𝗶𝗿𝗶, where I explored the exciting edge of real-world AI. Building everything from a virtual assistant (JARVIS) to a smart healthcare automation system that bagged the 𝗕𝗲𝘀𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘄𝗮𝗿𝗱 🏆 at 𝗡𝗜𝗧 𝗥𝗼𝘂𝗿𝗸𝗲𝗹𝗮.
   </p>
   <p>
-    I love building solutions that combine code and compassion - systems that don't just compute but contribute. My toolkit includes 𝗖, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗖#, 𝗦𝗤𝗟, 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗠𝗩𝗖, and modern web technologies, and I’m constantly pushing boundaries through hands-on projects and 𝗳𝘂𝗹𝗹–𝘀𝘁𝗮𝗰𝗸 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 at 𝗡𝘅𝘁𝗪𝗮𝘃𝗲’𝘀 𝗖𝗖𝗕𝗣 𝟰.𝟬 𝗔𝗰𝗮𝗱𝗲𝗺𝘆.
+    I love building solutions that combine code and compassion systems that don't just compute but contribute. My toolkit includes 𝗖, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗖#, 𝗦𝗤𝗟, 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗠𝗩𝗖, and modern web technologies, and I’m constantly pushing boundaries through hands-on projects and 𝗳𝘂𝗹𝗹–𝘀𝘁𝗮𝗰𝗸 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 at 𝗡𝘅𝘁𝗪𝗮𝘃𝗲’𝘀 𝗖𝗖𝗕𝗣 𝟰.𝟬 𝗔𝗰𝗮𝗱𝗲𝗺𝘆.
   </p>
 </div>
 
 <p></br></p>
 
-## 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐓𝐨𝐨𝐥𝐬:
+## Language & Tools:
 
 ### 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 :
 
