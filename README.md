@@ -14,15 +14,15 @@
     <!-- Dark mode -->
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&lines=Hey+There!+👋🏻;+I'm+Arin+Anil+Jadhav!;&color=EAEAEA"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&lines=Hey+There!+👋🏼;+I'm+Arin+Anil+Jadhav!;&color=EAEAEA"
     />
     <!-- Light mode -->
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&lines=Hey+There!+👋🏻;+I'm+Arin+Anil+Jadhav!;&color=20BEFF"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&lines=Hey+There!+👋🏼;+I'm+Arin+Anil+Jadhav!;&color=20BEFF"
     />
     <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&lines=Hey+There!+👋🏻;+I'm+Arin+Anil+Jadhav!;&color=20BEFF"
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&lines=Hey+There!+👋🏼;+I'm+Arin+Anil+Jadhav!;&color=20BEFF"
       alt="Typing SVG"
     />
   </picture>
