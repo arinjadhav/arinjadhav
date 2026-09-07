@@ -29,7 +29,7 @@
 </h1>
 
 <div>
-  <h2>M.Tech. AI'27 @ IIT Patna | Ex-NIT Rourkela Intern | AI Research Enthusiast | Data Scientist | Python • AI • ML • Data Science</h2>
+  <h2>M.Tech IIT Patna ‘27 | UGC-NET Qualified | Ex-NIT Rourkela Intern | AI Research Enthusiast | Data Scientist | Python • AI • ML • Data Science</h2>
 </div>
 
 ### Connect with me:
