@@ -43,7 +43,7 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj_0710)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Pinterest1.svg)](https://in.pinterest.com/arinjadhav07/)
+[![website](./assets/social-icons/Pinterest2.svg)](https://in.pinterest.com/arinjadhav07/)
 
 ### Code with me:
 <p align="start">
