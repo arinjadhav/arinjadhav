@@ -42,6 +42,8 @@
 [![website](./assets/social-icons/X.svg)](https://x.com/arinj_10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj_0710)
+&nbsp;&nbsp;
+[![website](./assets/social-icons/Pinterest1.svg)]([https://instagram.com/arinj_0710](https://in.pinterest.com/arinjadhav07/))
 
 ### Code with me:
 <p align="start">
