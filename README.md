@@ -41,7 +41,7 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/X.svg)](https://x.com/arinj_10)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj_0710)
+[![website](./assets/social-icons/Insta1.svg)](https://instagram.com/arinj_0710)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Pinterest2.svg)](https://in.pinterest.com/arinjadhav07/)
 
