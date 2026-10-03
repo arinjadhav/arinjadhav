@@ -33,7 +33,7 @@
 </div>
 
 ### Connect with me:
-[![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
+[![website](./assets/social-icons/linkedin4.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/MyWebsite4.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
