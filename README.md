@@ -39,7 +39,7 @@
 &nbsp;&nbsp;
 ![website](./assets/social-icons/Youtube.svg)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/X.svg)](https://x.com/arinj_10)
+[![website](./assets/social-icons/X3.svg)](https://x.com/arinj_10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/Insta1.svg)](https://instagram.com/arinj_0710)
 &nbsp;&nbsp;
