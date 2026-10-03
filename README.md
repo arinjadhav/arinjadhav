@@ -35,7 +35,7 @@
 ### Connect with me:
 [![website](./assets/social-icons/linkedin3.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/MyWebsite2.svg)](https://bento.me/arinjadhav)
+[![website](./assets/social-icons/MyWebsite4.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
 ![website](./assets/social-icons/Youtube.svg)
 &nbsp;&nbsp;
