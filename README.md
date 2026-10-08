@@ -52,6 +52,7 @@
   <a href="https://leetcode.com/u/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/LeetCode-ff8f00?style=for-the-badge&logo=leetcode&logoColor=6F4E37" alt="arinjadhav"/></a>
   <a href="https://codeforces.com/profile/arinjadhav" target="blank"><img src="https://img.shields.io/badge/Codeforces-FA003F?style=for-the-badge&logo=codeforces&logoColor=white" alt="arinjadhav"/></a>
   <a href="https://www.codechef.com/users/arinjadhav" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=F8F3DE" alt="arinjadhav"/></a>
+  <a href="https://codolio.com/profile/arinj10" target="blank"><img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=codolio&logoColor=white" alt="arinjadhav"/></a>
 </p>
 
 <p></br></p>
