@@ -33,17 +33,17 @@
 </div>
 
 ### Connect with me:
-[![website](./assets/social-icons/linkedin4.svg)](https://linkedin.com/in/arinjadhav10)
+[![website](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/MyWebsite4.svg)](https://bento.me/arinjadhav)
+[![website](./assets/social-icons/PortfolioWeb.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
 ![website](./assets/social-icons/Youtube.svg)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/X3.svg)](https://x.com/arinj_10)
+[![website](./assets/social-icons/X.svg)](https://x.com/arinj_10)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Insta1.svg)](https://instagram.com/arinj_0710)
+[![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj_0710)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Pinterest2.svg)](https://in.pinterest.com/arinjadhav07/)
+[![website](./assets/social-icons/Pinterest.svg)](https://in.pinterest.com/arinjadhav07/)
 
 ### Code with me:
 <p align="start">
