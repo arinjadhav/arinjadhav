@@ -113,6 +113,61 @@
 
 <p></br></p>
 
+## Featured Projects 🚀
+
+<details>
+<summary><b>🎬 Movie Recommender System using TMDB</b></summary>
+Content-based movie recommendation system built on the TMDB dataset. It uses cosine similarity over features like genres, keywords, and cast/crew to suggest similar movies.
+
+| | |
+|---|---|
+| **Stack** | Python, Jupyter Notebook, [libraries, e.g. pandas, scikit-learn] |
+| **Approach** | Cosine similarity over combined genre, keyword, and cast/crew features |
+| **Result** | [e.g. dataset size, how you evaluated it, or a demo link] |
+| **Repository** | [Movie-Recommender-System-using-TMDB](https://github.com/arinjadhav/Movie-Recommender-System-using-TMDB) |
+<br/>
+
+</details>
+
+
+<details>
+<summary><b>🏥 Smart Healthcare Automation System 🏆</b></summary>
+
+[One sentence on what it does.] Won the **Best Project Award** at NIT Rourkela.
+
+| | |
+|---|---|
+| **Stack** | [your tech] |
+| **What it does** | [the problem it solves] |
+| **Recognition** | Best Project Award, NIT Rourkela |
+| **Repository** | [link, or remove this row if it isn't public] |
+<br/>
+</details>
+
+
+<details>
+<summary><b>🤖 JARVIS Virtual Assistant</b></summary>
+
+[One sentence on what it can do.]
+
+| | |
+|---|---|
+| **Stack** | [e.g. Python + the libraries you used] |
+| **Features** | [voice commands, automation, etc.] |
+| **Repository** | [link] |
+<br/>
+</details>
+
+
+<details>
+<summary><b>🎮 Flappy Bird Game</b></summary>
+
+[Include only if you want it. A small game project is fine, but cut it if it's a tutorial clone.]
+<br/>
+</details>
+
+<p></br></p>
+
 ## Github Contribution Activity:
 <div align="center">
   <picture>
