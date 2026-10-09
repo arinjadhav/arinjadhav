@@ -29,7 +29,7 @@
 </h1>
 
 <div>
-  <h2>M.Tech @ IIT Patna ‘27 | UGC-NET Qualified | Ex-NIT Rourkela Intern | AI Research Enthusiast | Data Scientist | Python • AI/ML • Data Science</h2>
+  <h2>M.Tech @ IIT Patna '27 | UGC-NET Qualified | Ex-NIT Rourkela Intern | AI Research Enthusiast | Data Scientist | Python • AI/ML • Data Science</h2>
 </div>
 
 ### Connect with me:
@@ -47,12 +47,12 @@
 
 ### Code with me:
 <p align="start">
-  <a href="https://kaggle.com/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=0047AB" alt="arinjadhav"/></a> 
-  <a href="https://medium.com/@arinjadhav" target="blank"><img src="https://img.shields.io/badge/Medium-343434?style=for-the-badge&logo=medium&logoColor=white" alt="arinjadhav"/></a> 
-  <a href="https://leetcode.com/u/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/LeetCode-ff8f00?style=for-the-badge&logo=leetcode&logoColor=6F4E37" alt="arinjadhav"/></a>
-  <a href="https://codeforces.com/profile/arinjadhav" target="blank"><img src="https://img.shields.io/badge/Codeforces-FA003F?style=for-the-badge&logo=codeforces&logoColor=white" alt="arinjadhav"/></a>
-  <a href="https://www.codechef.com/users/arinjadhav" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=F8F3DE" alt="arinjadhav"/></a>
-  <a href="https://codolio.com/profile/arinj10" target="blank"><img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=codolio&logoColor=white" alt="arinjadhav"/></a>
+  <a href="https://kaggle.com/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=0047AB" alt="kaggle"/></a> 
+  <a href="https://medium.com/@arinjadhav" target="blank"><img src="https://img.shields.io/badge/Medium-343434?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> 
+  <a href="https://leetcode.com/u/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/LeetCode-ff8f00?style=for-the-badge&logo=leetcode&logoColor=6F4E37" alt="leetcode"/></a>
+  <a href="https://codeforces.com/profile/arinjadhav" target="blank"><img src="https://img.shields.io/badge/Codeforces-FA003F?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
+  <a href="https://www.codechef.com/users/arinjadhav" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=F8F3DE" alt="codechef"/></a>
+  <a href="https://codolio.com/profile/arinj10" target="blank"><img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=codolio&logoColor=white" alt="codolio"/></a>
 </p>
 
 <p></br></p>
