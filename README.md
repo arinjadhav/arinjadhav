@@ -196,12 +196,14 @@ A Python-based recreation of the classic Flappy Bird arcade game using Pygame, f
 
 <div align="center">
 
-| Recognition | Details |
+| Recognition | Highlights |
 |---|---|
-| **🏆 Best Project Award** | Smart Healthcare Automation System (SHAS) - InterSEP 2025, NIT Rourkela |
-| **🎓 UGC-NET Qualified (First Attempt)** | Computer Science & Applications - June 2026 · Qualified for Ph.D. admission eligibility |
+| **🏆 Best Project Award** | **Smart Healthcare Automation System (SHAS)** selected as the BEST project at **InterSEP 2025**, **NIT Rourkela** |
+| **🎓 UGC-NET Qualified** | **Computer Science & Applications**, cleared in the **first attempt** (June 2026), establishing eligibility for **Ph.D. admission** |
 
 </div>
+
+<p></br></p>
 
 ## Github Contribution Activity:
 <div align="center">
