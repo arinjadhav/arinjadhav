@@ -162,22 +162,32 @@ Built end-to-end during the InterSEP 2025 internship at NIT Rourkela, integratin
 <summary><b>🤖 JARVIS Virtual Assistant</b></summary>
 <br/>
 
-[One sentence on what it can do.]
+AI-powered desktop assistant built with Python that uses voice commands, speech recognition, and natural language processing to retrieve information, automate tasks, and enable real-time user interaction.
 
 | | |
 |---|---|
-| **Stack** | [e.g. Python + the libraries you used] |
-| **Features** | [voice commands, automation, etc.] |
-| **Repository** | [link] |
+| **Stack** | Python, SpeechRecognition, PyAudio, OpenAI API |
+| **Core Features** | Voice-based commands, speech recognition, information retrieval, and desktop task automation |
+| **AI Integration** | OpenAI API for AI-powered interactions |
+| **Repository** | 🚧 Work in Progress |
 <br/>
 </details>
 
 
 <details>
-<summary><b>🎮 Flappy Bird Game</b></summary>
+<summary><b>🕹️ Flappy Bird Game</b></summary>
 <br/>
-[Include only if you want it. A small game project is fine, but cut it if it's a tutorial clone.]
-<br/>
+
+A Python-based recreation of the classic Flappy Bird arcade game using Pygame, featuring real-time player controls, obstacle avoidance, and collision detection for an engaging gameplay experience.
+
+| | |
+|---|---|
+| **Stack** | Python, Pygame |
+| **Core Mechanics** | Bird movement, gravity-based falling, pipe obstacle navigation, and collision detection |
+| **Gameplay** | Keyboard-controlled flight with increasing emphasis on timing and precision |
+| **Controls** | Spacebar to flap, ESC to restart, and window close to exit |
+| **Repository** | [Flappy-Bird-Game](https://github.com/arinjadhav/Flappy-Bird-Game) |
+
 </details>
 
 <p></br></p>
