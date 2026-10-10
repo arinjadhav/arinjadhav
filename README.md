@@ -119,7 +119,7 @@
 
 <p></br></p>
 
-## Featured Projects 🚀
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🎬 Movie Recommender System using TMDB</b></summary>
