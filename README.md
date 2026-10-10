@@ -129,7 +129,7 @@ Content-based movie recommendation system built on the TMDB dataset. It uses cos
 
 | | |
 |---|---|
-| **Stack** | Python, Jupyter Notebook, [libraries, e.g. pandas, scikit-learn] |
+| **Stack** | Python, Jupyter Notebook, Pandas, NumPy, Scikit-learn |
 | **Approach** | Content-based filtering using cosine similarity on combined genre, keyword, and cast/crew features |
 | **Core Features** | Movie similarity analysis and personalized recommendations based on movie metadata |
 | **Repository** | [Movie-Recommender-System-using-TMDB](https://github.com/arinjadhav/Movie-Recommender-System-using-TMDB) |
