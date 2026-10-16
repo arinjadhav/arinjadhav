@@ -33,8 +33,7 @@
 </div>
 
 <h3>
-  <b>🎯 Open To:</b> Internship & Roles in Software Engineering · AI/ML Engineering
-</h3>
+  <b>🎯 Open To:</b> Internship & Roles in AI/ML Engineering · Software Engineering</h3>
 
 ### Connect with me:
 [![website](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
