@@ -32,26 +32,24 @@
   <h2>M.Tech @ IIT Patna '27 | UGC-NET Qualified | Ex-NIT Rourkela Intern | AI Research Enthusiast | Data Scientist | Python • AI/ML • Data Science</h2>
 </div>
 
-<h3>
-  <b>🎯 Open To:</b> Internship & Roles in AI/ML Engineering · Software Engineering</h3>
+<h3><b>🎯 Open To:</b> Internship & Roles in AI/ML Engineering · Software Engineering</h3>
+
+<hr>
 
 ### Connect with me:
 [![website](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/PortfolioWeb.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
+![website](./assets/social-icons/Medium.svg)
+&nbsp;&nbsp;
 ![website](./assets/social-icons/Youtube.svg)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/X.svg)](https://x.com/arinj_10)
-&nbsp;&nbsp;
-[![website](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj_0710)
-&nbsp;&nbsp;
-[![website](./assets/social-icons/Pinterest.svg)](https://in.pinterest.com/arinjadhav07/)
 
 ### Code with me:
 <p align="start">
-  <a href="https://kaggle.com/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=0047AB" alt="kaggle"/></a> 
-  <a href="https://medium.com/@arinjadhav" target="blank"><img src="https://img.shields.io/badge/Medium-343434?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> 
+  <a href="https://kaggle.com/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=0047AB" alt="kaggle"/></a>
   <a href="https://leetcode.com/u/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/LeetCode-ff8f00?style=for-the-badge&logo=leetcode&logoColor=6F4E37" alt="leetcode"/></a>
   <a href="https://codeforces.com/profile/arinjadhav" target="blank"><img src="https://img.shields.io/badge/Codeforces-FA003F?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
   <a href="https://www.codechef.com/users/arinjadhav" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=F8F3DE" alt="codechef"/></a>
@@ -64,7 +62,12 @@
   </a>
 </p>
 
-<p></br></p>
+### Beyond the Code:
+[![Instagram](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj_0710)
+&nbsp;&nbsp;
+[![Pinterest](./assets/social-icons/Pinterest.svg)](https://in.pinterest.com/arinjadhav07/)
+
+<hr>
 
 ### About me:
 <div>
