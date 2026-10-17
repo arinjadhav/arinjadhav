@@ -53,6 +53,7 @@
   <a href="https://leetcode.com/u/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/LeetCode-ff8f00?style=for-the-badge&logo=leetcode&logoColor=6F4E37" alt="leetcode"/></a>
   <a href="https://codeforces.com/profile/arinjadhav" target="blank"><img src="https://img.shields.io/badge/Codeforces-FA003F?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
   <a href="https://www.codechef.com/users/arinjadhav" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=F8F3DE" alt="codechef"/></a>
+  <a href="YOUR_TAKEUFORWARD_URL" target="blank"><img src="https://img.shields.io/badge/takeUforward-2B2B2B?style=for-the-badge" alt="takeUforward"/></a>
   <a href="https://codolio.com/profile/arinj10" target="blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/social-icons/codolio-dark.png" />
