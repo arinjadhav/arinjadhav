@@ -60,6 +60,7 @@
       <img align="bottom" src="./assets/social-icons/codolio-light.png" alt="Here you can find out all my coding profiles" width="225" />
     </picture>
   </a>
+  <br>
   <a href="https://kaggle.com/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=0047AB" alt="kaggle"/></a>
 </p>
 
