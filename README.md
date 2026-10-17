@@ -189,7 +189,7 @@ A Python-based recreation of the classic Flappy Bird arcade game using Pygame, f
 | **Core Mechanics** | Bird movement, gravity-based falling, pipe obstacle navigation, and collision detection |
 | **Gameplay** | Keyboard-controlled flight with increasing emphasis on timing and precision |
 | **Controls** | Spacebar to flap, ESC to restart, and window close to exit |
-| **Repository** | [Flappy-Bird-Game](https://github.com/arinjadhav/Flappy-Bird-Game) |
+| **Repository** | [Flappy-Bird](https://github.com/arinjadhav/Flappy-Bird-Game) |
 
 </details>
 
