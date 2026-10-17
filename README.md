@@ -67,6 +67,8 @@
 [![Instagram](./assets/social-icons/Instagram.svg)](https://instagram.com/arinj_0710)
 &nbsp;&nbsp;
 [![Pinterest](./assets/social-icons/Pinterest.svg)](https://in.pinterest.com/arinjadhav07/)
+&nbsp;&nbsp;
+[![Spotify](./assets/social-icons/Spotify.svg)](YOUR_SPOTIFY_PROFILE_URL)
 
 <hr>
 
