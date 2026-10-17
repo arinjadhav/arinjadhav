@@ -3,7 +3,7 @@
 </p>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=arinjadhav&color=E60026" />
+  <img src="https://komarev.com/ghpvc/?username=arinjadhav&abbreviated=true&color=E60026"/>
   <a href="https://github.com/arinjadhav">
     <img src="https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social" />
   </a>
@@ -49,10 +49,11 @@
 
 ### Code with me:
 <p align="start">
+  <a href="https://kaggle.com/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=0047AB" alt="kaggle"/></a>
   <a href="https://leetcode.com/u/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/LeetCode-ff8f00?style=for-the-badge&logo=leetcode&logoColor=6F4E37" alt="leetcode"/></a>
   <a href="https://codeforces.com/profile/arinjadhav" target="blank"><img src="https://img.shields.io/badge/Codeforces-FA003F?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
   <a href="https://www.codechef.com/users/arinjadhav" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=F8F3DE" alt="codechef"/></a>
-  <a href="YOUR_TAKEUFORWARD_URL" target="blank"><img src="./assets/social-icons/takeUforward.png" alt="takeUforward" height="28"/></a>
+  <a target="blank"><img src="./assets/social-icons/TUF.png" alt="takeUforward" height="28"/></a>
   <a href="https://codolio.com/profile/arinj10" target="blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/social-icons/codolio-dark.png" />
@@ -60,8 +61,6 @@
       <img align="bottom" src="./assets/social-icons/codolio-light.png" alt="Here you can find out all my coding profiles" width="225" />
     </picture>
   </a>
-  <br>
-  <a href="https://kaggle.com/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=0047AB" alt="kaggle"/></a>
 </p>
 
 ### Beyond the Code:
