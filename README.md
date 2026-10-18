@@ -5,7 +5,7 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=arinjadhav&abbreviated=true&color=E60026"/>
   <a href="https://github.com/arinjadhav">
-    <img src="https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/arinjadhav?label=Followers&style=flat&logo=github&color=181717" alt="GitHub Followers" />
   </a>
 </div>
 
