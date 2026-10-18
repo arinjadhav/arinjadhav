@@ -41,9 +41,9 @@
 &nbsp;&nbsp;
 [![website](./assets/social-icons/PortfolioWeb.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
-![website](./assets/social-icons/Medium.svg)
+[![website](./assets/social-icons/Medium.svg)](https://medium.com/@arinjadhav)
 &nbsp;&nbsp;
-![website](./assets/social-icons/Youtube.svg)
+[![website](./assets/social-icons/Youtube.svg)](https://www.youtube.com/@arinjadhav10)
 &nbsp;&nbsp;
 [![website](./assets/social-icons/X.svg)](https://x.com/arinj_10)
 
@@ -68,7 +68,7 @@
 &nbsp;&nbsp;
 [![Pinterest](./assets/social-icons/Pinterest.svg)](https://in.pinterest.com/arinjadhav07/)
 &nbsp;&nbsp;
-[![Spotify](./assets/social-icons/Spotify.svg)](YOUR_SPOTIFY_PROFILE_URL)
+[![Spotify](./assets/social-icons/Spotify.svg)](https://open.spotify.com/user/9hqgih7g54x96fba4gawm9qoi)
 
 <hr>
 
