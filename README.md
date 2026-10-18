@@ -37,15 +37,15 @@
 <br>
 
 ### Connect with me:
-[![website](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
+[![LinkedIn](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/PortfolioWeb.svg)](https://bento.me/arinjadhav)
+[![Portfolio website](./assets/social-icons/PortfolioWeb.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Medium.svg)](https://medium.com/@arinjadhav)
+[![Medium](./assets/social-icons/Medium.svg)](https://medium.com/@arinjadhav)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/Youtube.svg)](https://www.youtube.com/@arinjadhav10)
+[![YouTube](./assets/social-icons/Youtube.svg)](https://www.youtube.com/@arinjadhav10)
 &nbsp;&nbsp;
-[![website](./assets/social-icons/X.svg)](https://x.com/arinj_10)
+[![X](./assets/social-icons/X.svg)](https://x.com/arinj_10)
 
 ### Code with me:
 <p align="start">
@@ -53,7 +53,7 @@
   <a href="https://leetcode.com/u/arinaniljadhav" target="blank"><img src="https://img.shields.io/badge/LeetCode-ff8f00?style=for-the-badge&logo=leetcode&logoColor=6F4E37" alt="leetcode"/></a>
   <a href="https://codeforces.com/profile/arinjadhav" target="blank"><img src="https://img.shields.io/badge/Codeforces-FA003F?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
   <a href="https://www.codechef.com/users/arinjadhav" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=F8F3DE" alt="codechef"/></a>
-  <a target="blank"><img src="./assets/social-icons/TUF.png" alt="takeUforward" height="28"/></a>
+  <a href="https://takeuforward.org/profile/arinjadhav" target="blank"><img src="./assets/social-icons/TUF.png" alt="takeUforward" height="28"/></a>
   <a href="https://codolio.com/profile/arinj10" target="blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/social-icons/codolio-dark.png" />
@@ -79,16 +79,16 @@
     I'm currently pursuing my <strong>M.Tech in Artificial Intelligence</strong> at <strong>IIT Patna</strong>, and I’m passionate about transforming data into intelligent, human-centered solutions.
   </p>
   <p>
-    Before IIT, I earned my 𝗕.𝗧𝗲𝗰𝗵 𝗶𝗻 𝗔𝗜 & 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 from 𝗟𝗦𝗣 𝗚𝗼𝘃𝗲𝗿𝗻𝗺𝗲𝗻𝘁 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, 𝗥𝗮𝘁𝗻𝗮𝗴𝗶𝗿𝗶, where I explored the exciting edge of real-world AI. Building everything from a virtual assistant (JARVIS) to a smart healthcare automation system that bagged the 𝗕𝗲𝘀𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘄𝗮𝗿𝗱 🏆 at 𝗡𝗜𝗧 𝗥𝗼𝘂𝗿𝗸𝗲𝗹𝗮.
+    Before IIT, I earned my <strong>B.Tech in AI &amp; Data Science</strong> from <strong>LSP Government College of Engineering, Ratnagiri</strong>, where I explored the exciting edge of real-world AI. Building everything from a virtual assistant (JARVIS) to a smart healthcare automation system that bagged the <strong>Best Project Award</strong> 🏆 at <strong>NIT Rourkela</strong>.
   </p>
   <p>
-    I love building solutions that combine code and compassion, systems that don't just compute but contribute. My toolkit includes 𝗖, 𝗖++, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗦𝗤𝗟, 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗠𝗩𝗖, and modern web technologies, and I’m constantly pushing boundaries through hands-on projects and 𝗳𝘂𝗹𝗹–𝘀𝘁𝗮𝗰𝗸 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 at 𝗡𝘅𝘁𝗪𝗮𝘃𝗲’𝘀 𝗖𝗖𝗕𝗣 𝟰.𝟬 𝗔𝗰𝗮𝗱𝗲𝗺𝘆.
+    I love building solutions that combine code and compassion, systems that don't just compute but contribute. My toolkit includes <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>SQL</strong>, <strong>ASP.NET MVC</strong>, and modern web technologies, and I’m constantly pushing boundaries through hands-on projects and <strong>full-stack learning</strong> at <strong>NxtWave’s CCBP 4.0 Academy</strong>.
   </p>
 </div>
 
 <p></br></p>
 
-## Language & Tools:
+## Languages & Tools:
 
 ### 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 :
 
@@ -149,7 +149,7 @@ Content-based movie recommendation system built on the TMDB dataset. It uses cos
 <summary><b>🏥 Smart Healthcare Automation System (SHAS) 🏆</b></summary>
 <br/>
 
-A full-stack Healthcare automation web application designed to streamlines patient registration, appointment scheduling, pharmacy and blood bank inventory, and billing, featuring an AI-powered healthcare chatbot (Dr. Iris) and secure online payments. Awarded **Best Project** at NIT Rourkela during InterSEP 2025.
+A full-stack Healthcare automation web application designed to streamline patient registration, appointment scheduling, pharmacy and blood bank inventory, and billing, featuring an AI-powered healthcare chatbot (Dr. Iris) and secure online payments. Awarded **Best Project** at NIT Rourkela during InterSEP 2025.
 
 | | |
 |---|---|
@@ -214,7 +214,7 @@ A Python-based recreation of the classic Flappy Bird arcade game using Pygame, f
 
 <p></br></p>
 
-## Github Contribution Activity:
+## GitHub Contribution Activity:
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arinjadhav/arinjadhav/output/github-snake-dark.svg" />
