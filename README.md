@@ -34,6 +34,16 @@
 
 <h3><b>🎯 Open To:</b> Internship & Roles in AI/ML Engineering · Software Engineering</h3>
 
+<p align="left">
+  <a href="" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/social-icons/Resume-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/social-icons/Resume-light.svg" />
+      <img align="bottom" src="./assets/Resume-light.svg" alt="Here you can find my latest resume" width="170" />
+    </picture>
+  </a>
+</p>
+
 <br>
 
 ### Connect with me:
