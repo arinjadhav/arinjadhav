@@ -3,13 +3,6 @@
 </p>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=arinjadhav&abbreviated=true&color=E60026&v=2" alt="Profile Views" />
-  <a href="https://github.com/arinjadhav">
-    <img src="https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-</div>
-
-<div align="right">
   <img src="https://komarev.com/ghpvc/?username=arinjadhav&abbreviated=true&color=E60026"/>
   <a href="https://github.com/arinjadhav">
     <img src="https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social" />
