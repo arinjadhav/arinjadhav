@@ -5,7 +5,7 @@
 <div align="right">
   <img src="https://profile-counter-virid.vercel.app/api/views?id=arinjadhav&label=Views&rightColor=E60026" alt="Profile views"/>
   <a href="https://github.com/arinjadhav">
-    <img src="https://img.shields.io/github/followers/arinjadhav?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social" />
   </a>
 </div>
 
@@ -39,7 +39,7 @@
 ### Connect with me:
 [![LinkedIn](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
-[![Gmail](./assets/social-icons/Gmail3.svg)](mailto:your-email@gmail.com)
+[![Gmail](./assets/social-icons/Gmail.svg)](mailto:contact.arinjadhav@gmail.com)
 &nbsp;&nbsp;
 [![Portfolio website](./assets/social-icons/PortfolioWeb.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
