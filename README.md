@@ -93,37 +93,38 @@
 ### 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 :
 
 <p align="left">
-  <img src="assets/dev-icons/c.svg"/>
-  <img src="assets/dev-icons/c++.svg"/>
-  <img src="assets/dev-icons/python.svg"/>
-    <img src="assets/dev-icons/javascript.svg"/>
-  <img src="assets/dev-icons/r.svg"/>
-  <img src="assets/dev-icons/mysql.svg"/>
+  <img src="assets/dev-icons/c.svg" alt="C"/>
+  <img src="assets/dev-icons/c++.svg" alt="C++"/>
+  <img src="assets/dev-icons/python.svg" alt="Python"/>
+  <img src="assets/dev-icons/javascript.svg" alt="JavaScript"/>
+  <img src="assets/dev-icons/r.svg" alt="R"/>
+  <img src="assets/dev-icons/mysql.svg" alt="MySQL"/>
 </p>
 
 ### 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 :
 
 <p align="left">
-  <img src="assets/dev-icons/html5.svg"/>
-  <img src="assets/dev-icons/css3.svg"/>
-  <img src="assets/dev-icons/bootstrap.svg"/>
-  <img src="assets/dev-icons/react.svg"/>
-  <img src="assets/dev-icons/nodejs.svg"/>
+  <img src="assets/dev-icons/html5.svg" alt="HTML5"/>
+  <img src="assets/dev-icons/css3.svg" alt="CSS3"/>
+  <img src="assets/dev-icons/bootstrap.svg" alt="Bootstrap"/>
+  <img src="assets/dev-icons/react.svg" alt="React"/>
+  <img src="assets/dev-icons/nodejs.svg" alt="Node.js"/>
 </p>
 
 ### 𝖴𝗍𝗂𝗅𝗂𝗍𝗂𝖾𝗌 :
+
 <p>
-  <img src="assets/dev-icons/jupyternotebook-light.svg#gh-light-mode-only" width="42" height="42" alt="jupyternotebook" />
-  <img src="assets/dev-icons/jupyternotebook-dark.svg#gh-dark-mode-only" width="42" height="42" alt="jupyternotebook" />
-  <img src="assets/dev-icons/excel.svg" width="42" height="42"/>
-  <img src="assets/dev-icons/git.svg" width="42" height="42"/>
-  <img src="assets/dev-icons/github-light.svg#gh-light-mode-only" width="42" height="42" alt="GitHub" />
-  <img src="assets/dev-icons/github-dark.svg#gh-dark-mode-only" width="42" height="42" alt="GitHub" />
-  <img src="assets/dev-icons/vsc.svg" width="42" height="42"/>
-  <img src="assets/dev-icons/vs.svg" width="42" height="42"/>
-  <img src="assets/dev-icons/aws-light.svg#gh-light-mode-only" width="42" height="42" alt="aws" />
-  <img src="assets/dev-icons/aws-dark.svg#gh-dark-mode-only" width="42" height="42" alt="aws" />
-  <img src="assets/dev-icons/gcp.svg" width="42" height="42"/>
+  <img src="assets/dev-icons/jupyternotebook-light.svg#gh-light-mode-only" width="42" height="42" alt="Jupyter Notebook Light" />
+  <img src="assets/dev-icons/jupyternotebook-dark.svg#gh-dark-mode-only" width="42" height="42" alt="Jupyter Notebook Dark" />
+  <img src="assets/dev-icons/excel.svg" width="42" height="42" alt="Excel"/>
+  <img src="assets/dev-icons/git.svg" width="42" height="42" alt="Git"/>
+  <img src="assets/dev-icons/github-light.svg#gh-light-mode-only" width="42" height="42" alt="GitHub Light" />
+  <img src="assets/dev-icons/github-dark.svg#gh-dark-mode-only" width="42" height="42" alt="GitHub Dark" />
+  <img src="assets/dev-icons/vsc.svg" width="42" height="42" alt="Visual Studio Code"/>
+  <img src="assets/dev-icons/vs.svg" width="42" height="42" alt="Visual Studio"/>
+  <img src="assets/dev-icons/aws-light.svg#gh-light-mode-only" width="42" height="42" alt="Amazon Web Services Light" />
+  <img src="assets/dev-icons/aws-dark.svg#gh-dark-mode-only" width="42" height="42" alt="Amazon Web Services Dark" />
+  <img src="assets/dev-icons/gcp.svg" width="42" height="42" alt="Google Cloud Platform"/>
 </p>
 
 <p></br></p>
