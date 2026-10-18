@@ -39,6 +39,8 @@
 ### Connect with me:
 [![LinkedIn](./assets/social-icons/Linkedin.svg)](https://linkedin.com/in/arinjadhav10)
 &nbsp;&nbsp;
+[![Gmail](./assets/social-icons/Gmail3.svg)](mailto:your-email@gmail.com)
+&nbsp;&nbsp;
 [![Portfolio website](./assets/social-icons/PortfolioWeb.svg)](https://bento.me/arinjadhav)
 &nbsp;&nbsp;
 [![Medium](./assets/social-icons/Medium.svg)](https://medium.com/@arinjadhav)
