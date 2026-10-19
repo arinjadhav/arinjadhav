@@ -5,7 +5,7 @@
 <div align="right">
   <img src="https://profile-counter-virid.vercel.app/api/views?id=arinjadhav&label=Views&rightColor=E60026" alt="Profile views"/>
   <a href="https://github.com/arinjadhav">
-    <img src="https://img.shields.io/github/followers/arinjadhav?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/arinjadhav?label=Followers&style=social" />
   </a>
 </div>
 
